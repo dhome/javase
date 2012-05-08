@@ -16,7 +16,7 @@ import org.codehaus.jettison.json.JSONObject;
  *
  * Created on 24.11.2011, 11:12:45
  *
- * @author Heinz Marti <heinz.marti@hslu.ch>
+ * @author Heinz Marti <heinz.marti@h2m.ch>
  */
 public class TwitterClient {
     

@@ -36,6 +36,6 @@ public class EvaluatorTest {
         variables.put("x", new Number(10));
         variables.put("z", new Number(42));
         int result = sentence.interpret(variables);
-        assertTrue(result == 57);
+        assertTrue(result == -27);
     }
 }
