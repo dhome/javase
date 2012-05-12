@@ -1,7 +1,6 @@
 package ch.h2m.edu.patternplayground.templatemethod;
 
 import org.junit.*;
-import static org.junit.Assert.*;
 
 /**
  *

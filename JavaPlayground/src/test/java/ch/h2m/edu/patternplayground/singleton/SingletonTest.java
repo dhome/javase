@@ -5,7 +5,6 @@
 package ch.h2m.edu.patternplayground.singleton;
 
 import org.junit.*;
-import static org.junit.Assert.*;
 
 /**
  *

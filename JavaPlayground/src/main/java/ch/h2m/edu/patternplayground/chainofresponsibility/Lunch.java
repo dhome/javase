@@ -1,7 +1,5 @@
 package ch.h2m.edu.patternplayground.chainofresponsibility;
 
-import java.util.Calendar;
-
 /**
  * Dinner.java
  *

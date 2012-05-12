@@ -9,7 +9,9 @@ package ch.h2m.edu.restful;
  */
 public class Tweet implements java.io.Serializable {
 
-    public Tweet(String id, String text, String createAt) {
+	private static final long serialVersionUID = 1L;
+
+	public Tweet(String id, String text, String createAt) {
         this.id = id;
         this.text = text;
         //TODO: Parse as a Date

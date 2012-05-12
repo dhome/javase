@@ -17,7 +17,7 @@ public class JavaProperties {
     
     public void printJavaSystemProperties() {
         Properties p = System.getProperties();
-        Enumeration keys = p.keys();
+        Enumeration<Object> keys = p.keys();
         while (keys.hasMoreElements()) {
             String key = (String) keys.nextElement();
             String value = (String) p.get(key);
