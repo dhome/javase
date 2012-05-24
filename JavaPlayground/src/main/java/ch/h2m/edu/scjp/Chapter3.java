@@ -9,15 +9,24 @@ package ch.h2m.edu.scjp;
 public class Chapter3 {
 
 	/**
-	 * Key Points:
-	 *   - Shadowing Variables
-	 *   - widening, boxing, var-args
-	 *   	> primitive widening use the smallest method arguments possible
-	 *      > Used individually, boxing and var-args are compativle with overloading
-	 *      > you cannot widen from one wrapper type to another
-	 *      > you cannot widen and then box (f.e. int -> Long)
-	 *      > you can box and then widen (int -> Integer -> Object)
-	 *      > you can combine var-args with either widening or boxing
+	 * 
+	 * Literals<ul>
+	 * <li>octal: placeing a zero in front of the number (f.e. <code>06 || 011</code>, 6dez || 9dec)</li>
+	 * <li>hex: placeing a zero cross <code>0x</code>.. in front of)
+	 * </ul>
+	 * character<ul>
+	 * <li>singel letter <code>char a = 'a'</code></li>
+	 * <li>singel letter <code>char letter = '\u004E'</code></li>
+	 * </ul>
+	 * 
+	 * widening, boxing, var-args<ul>
+	 *   	<li> primitive widening use the smallest method arguments possible</li>
+	 *      <li> Used individually, boxing and var-args are compativle with overloading</li>
+	 *      <li> you cannot widen from one wrapper type to another</li>
+	 *      <li> you cannot widen and then box (f.e. <code>int</code> -> <code>Long</code>)</li>
+	 *      <li> you can box and then widen (<code>int</code> -> <code>Integer</code> -> <code>Object</code>)</li>
+	 *      <li> you can combine var-args with either widening or boxing</li>
+	 *      </ul>
 	 *   
 	 */
 	
