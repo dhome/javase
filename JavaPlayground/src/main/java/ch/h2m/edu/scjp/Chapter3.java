@@ -1,5 +1,11 @@
 package ch.h2m.edu.scjp;
 
+/**
+ * Topic: Assignement
+ * 
+ * @author Heinz
+ *
+ */
 public class Chapter3 {
 
 	/**
