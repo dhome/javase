@@ -51,7 +51,7 @@ public class RegularExpression {
     /**
      * Use a complex password.
      * match 6 to 20 characters string with at least one digit, one upper case 
-     * letter, one lower case letter and one special symbol (“@#$%”). This 
+     * letter, one lower case letter and one special symbol (@#$%). This 
      * regular expression pattern is very useful to implement a strong and 
      * complex password.
      * @return 
