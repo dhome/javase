@@ -11,5 +11,12 @@ public class Chapter5Test {
 		Chapter5 chp5 = new Chapter5();
 		chp5.forExample2();
 	}
+	
+	@Test
+	public void whatsAboutAsserts() {
+		Chapter5 chp5 = new Chapter5();
+		chp5.assertExamples(2);
+		chp5.assertExamples(-1);
+	}
 
 }
