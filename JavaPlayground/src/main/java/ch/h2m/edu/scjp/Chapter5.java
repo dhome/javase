@@ -5,7 +5,7 @@ package ch.h2m.edu.scjp;
  * 
  * Switch
  * <ul>
- * <li>A switch expression must ecaluate to a <code>char</code>,
+ * <li>A switch expression must encapsulate to a <code>char</code>,
  * <code>byte</code>, <code>short</code>, <code>int</code> or <code>enum</code></li>
  * </ul>
  * 

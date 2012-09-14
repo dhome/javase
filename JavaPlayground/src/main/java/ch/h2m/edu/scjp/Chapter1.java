@@ -7,12 +7,12 @@ package ch.h2m.edu.scjp;
  * <ul>
  * <li>All methods are <code>public abstract</code></li>
  * <li>Interface define instance methods</li>
- * <li>Constants are alwais <code>public static final ...</code></li>
+ * <li>Constants are always <code>public static final ...</code></li>
  * </ul>
  * 
  * Access Control
  * <ul>
- * <li>The reference <code>this</code> alwasy refers to the current executing
+ * <li>The reference <code>this</code> always refers to the current executing
  * object</li>
  * <li><code>protected</code> - for a subclass outside the package, the
  * <code>protected</code> member can be accessed only through inheritance.
